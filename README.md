@@ -4,17 +4,15 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 2018
 
-### Student Name:  
-(First and Last Name)
+### Student Name:
+Tisa Hall
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+In this assignment we learned to create code to calculate monnthly expenses.
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://halltisa.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 I learned to use the parseFloat method in order to convert strings to floats.
